@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Final Exam",
+"productVersion": "0.1",
+"dataUrl": "uploadbuild.data.unityweb",
+"wasmCodeUrl": "uploadbuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "uploadbuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "uploadbuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
